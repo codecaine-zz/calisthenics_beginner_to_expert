@@ -8,3 +8,8 @@ The Excel workout files provided in this program are designed to help you track 
 **RM (Repetition Maximum)**: The maximum weight you can lift for a given number of repetitions. For example, 1RM is the heaviest weight you can lift for one rep, while 5RM is the max weight you can lift for five reps.
 
 **TM (Training Max)**: A percentage of your 1RM used for programming and progression. It’s usually set around 85-90% of your true 1RM to allow for consistent progress without overtraining.
+
+## Fitness Tips
+
+Check out [this YouTube playlist](https://www.youtube.com/playlist?list=PLuQI68PE-VaBxuZgPFSwR7DfynFNiQcJ3)
+for additional tips and techniques to enhance your calisthenics routine.
