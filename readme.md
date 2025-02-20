@@ -13,3 +13,7 @@ The Excel workout files provided in this program are designed to help you track 
 
 Check out [this YouTube playlist](https://www.youtube.com/playlist?list=PLuQI68PE-VaBxuZgPFSwR7DfynFNiQcJ3)
 for additional tips and techniques to enhance your calisthenics routine.
+
+## Scapula Training
+
+Scapula training is essential for proper shoulder function and stability. Incorporate scapular exercises into your routine to improve your posture and prevent shoulder injuries. There is a strength and gymnastics section in the workout program that focuses on scapula training.
